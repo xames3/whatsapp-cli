@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# For Visual Studio Code
+.vscode/
+pyrightconfig.json
+
+# Scratchpad for experiments
+.scratch/
+*.bak
